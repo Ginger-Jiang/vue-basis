@@ -151,3 +151,11 @@
   </keep-alive>
 </transition>
 ```
+
+## `<router-view>` Props
+
+### name
+
+- 类型: string
+- 默认值: default
+  如果 `<router-link>` 设置了名称, 则会渲染对应路由配置中 `components` 下的相应组件.
