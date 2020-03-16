@@ -90,3 +90,4 @@
 - router-link
 - router 构建选项
 - router 实例
+- router 路由对象与组件注入
