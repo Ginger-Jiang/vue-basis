@@ -100,5 +100,6 @@
 - 核心-State
 - 核心-Getter
 - 核心-Mutation
+- 核心-Action
 
 ### API
