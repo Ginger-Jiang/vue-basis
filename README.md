@@ -99,5 +99,6 @@
 - 安装介绍与起步
 - 核心-State
 - 核心-Getter
+- 核心-Mutation
 
 ### API
