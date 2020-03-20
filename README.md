@@ -101,5 +101,6 @@
 - 核心-Getter
 - 核心-Mutation
 - 核心-Action
+- 核心-Module
 
 ### API
