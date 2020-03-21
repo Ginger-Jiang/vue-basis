@@ -104,3 +104,5 @@
 - 核心-Module
 
 ### API
+
+- VuexStore
